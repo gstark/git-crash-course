@@ -1,6 +1,6 @@
 # The Iron Yard Tampa/St Pete
 
-## Git Crash Course
+## Git Crash Course (Three Hours)
 
 ### Resources
 
@@ -8,7 +8,6 @@
 
 - [GitHub Desktop](https://desktop.github.com)
 - [homebrew for OS X](http://brew.sh)
-
 
 #### Guides
 
