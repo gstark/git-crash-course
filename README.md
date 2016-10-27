@@ -1,6 +1,6 @@
 # The Iron Yard Tampa/St Pete
 
-## Git Crash Course (3 hours)
+## Git Crash Course (Three Hours)
 
 ### Resources
 
